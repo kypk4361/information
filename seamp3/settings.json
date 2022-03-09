@@ -1,7 +1,8 @@
 {
     "settings" :{
         "version":{
-            "ver":0
+            "ver":0,
+            "message":"안녕하세요."
         }
     }
 }
