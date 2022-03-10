@@ -1,1 +1,42 @@
-ew0KICAgICLslbHshKTsoJUiOiB7DQogICAgICAgICLrsoTsoIQiOiB7DQogICAgICAgICAgICAi67KI7Zi4IjogMCwNCiAgICAgICAgICAgICLsnbTrpoQiOiAwLA0KICAgICAgICAgICAgIuuCoOynnCI6ICIyMDIy64WEIDPsm5QgMTDsnbwg7Jik7KCEIiwNCiAgICAgICAgICAgICLrqZTshLjsp4AiOiAi7JWI64WV7ZWY7IS47JqULCDri6TsnYzqs7wg6rCZ7J2AIOyCrO2VreydtCDrs4Dqsr3rkJjsl4jsirXri4jri6QuLiINCiAgICAgICAgfSwNCiAgICAgICAgIu2OmOydtOyngOu3sCI6IHsNCiAgICAgICAgICAgICLquIjshJ0iOiB7DQogICAgICAgICAgICAgICAgIuyCrOyaqSI6dHJ1ZSwNCiAgICAgICAgICAgICAgICAi7J2066aEIjogIuq4iOyEsSINCiAgICAgICAgICAgIH0sDQogICAgICAgICAgICAi66qp7ISxIjogew0KICAgICAgICAgICAgICAgICLsgqzsmqkiOnRydWUsDQogICAgICAgICAgICAgICAgIuydtOumhCI6ICLrqqnshLEiDQogICAgICAgICAgICB9LA0KICAgICAgICAgICAgIuyImOyEsSI6IHsNCiAgICAgICAgICAgICAgICAi7IKs7JqpIjp0cnVlLA0KICAgICAgICAgICAgICAgICLsnbTrpoQiOiAi7IiY7ISxIg0KICAgICAgICAgICAgfSwNCiAgICAgICAgICAgICLsp4DqtawiOiB7DQogICAgICAgICAgICAgICAgIuyCrOyaqSI6dHJ1ZSwNCiAgICAgICAgICAgICAgICAi7J2066aEIjogIuyngOq1rCINCiAgICAgICAgICAgIH0NCiAgICAgICAgfSwNCiAgICAgICAgIuq0keqzoCI6IHsNCiAgICAgICAgICAgICLslaDrk5zrqrkiOiB7DQogICAgICAgICAgICAgICAgIuyghOuptOq0keqzoCI6IHsNCiAgICAgICAgICAgICAgICAgICAgIuuFuOy2nCI6IHRydWUsDQogICAgICAgICAgICAgICAgICAgICLrhbjstpztmp/siJgiOiA1LA0KICAgICAgICAgICAgICAgICAgICAi7L2U65OcIjogIuyghOuptOq0keqzoCDsvZTrk5wiDQogICAgICAgICAgICAgICAgfSwNCiAgICAgICAgICAgICAgICAi7Jik7ZSI6rSR6rOgIjogew0KICAgICAgICAgICAgICAgICAgICAi64W47LacIjogdHJ1ZSwNCiAgICAgICAgICAgICAgICAgICAgIuuFuOy2nO2an+yImCI6IDUsDQogICAgICAgICAgICAgICAgICAgICLsvZTrk5wiOiAi7Jik7ZSI6rSR6rOgIOy9lOuTnCINCiAgICAgICAgICAgICAgICB9LA0KICAgICAgICAgICAgfQ0KICAgICAgICB9DQogICAgfQ0KfQ==
+{
+    "앱설정": {
+        "버전": {
+            "번호": 0,
+            "이름": 0,
+            "날짜": "2022년 3월 10일 오전",
+            "메세지": "안녕하세요, 다음과 같은 사항이 변경되었습니다.."
+        },
+        "페이지뷰": {
+            "금석": {
+                "사용":true,
+                "이름": "금성"
+            },
+            "목성": {
+                "사용":true,
+                "이름": "목성"
+            },
+            "수성": {
+                "사용":true,
+                "이름": "수성"
+            },
+            "지구": {
+                "사용":true,
+                "이름": "지구"
+            }
+        },
+        "광고": {
+            "애드몹": {
+                "전면광고": {
+                    "노출": true,
+                    "노출횟수": 5,
+                    "코드": "전면광고 코드"
+                },
+                "오픈광고": {
+                    "노출": true,
+                    "노출횟수": 5,
+                    "코드": "오픈광고 코드"
+                },
+            }
+        }
+    }
+}
