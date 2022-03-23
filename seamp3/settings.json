@@ -3,13 +3,13 @@
     "앱설정": {
         "버전": {
             "코드": 10,
-            "이름": "2",
-            "날짜": "2022년 3월 10일 오전",
+            "이름": "2.1.1",
+            "날짜": "2022년 3월 23일 오전 3시",
             "패키지": "com.yeongseok.seamp3",
             "패키지주소": "com.yeongseok.seamp3",
             "버전메세지": {
                 "all": "The following has been revised.\n\n1. A phenomenon that goes down while scrolling.\n2. Modified to save file photos and tags.\n3. Correction of other errors.\n\nPlease update to the new version.",
-                "ko": "다음 사항이 수정 되었습니다.\n\n1. 스크롤중 다운되는 현상.\n2. 오프닝 광고 구현방식 변경.\n3. 사진 및 태그를 파일에 저장하도록 수정.\n4. 기타 오류 수정.\n\n새로운 버전으로 업데이트 받으시기 바랍니다."
+                "ko": "다음 사항이 수정 되었습니다.\n\n1. 스크롤중 다운되는 현상.\n2. 오프닝 광고 구현방식 변경.\n3. 커버사진 및 태그를 파일에 저장하도록 수정.\n4. 기타 오류 수정.\n\n새로운 버전으로 업데이트 받으시기 바랍니다."
             }
         },
         "페이지뷰": {
