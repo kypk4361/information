@@ -2,14 +2,14 @@
     "언어": "모든언어",
     "앱설정": {
         "버전": {
-            "코드": 11,
-            "이름": "2.1.1",
+            "코드": 15,
+            "이름": "3.0.2",
             "날짜": "2022년 3월 23일 오전 3시",
             "패키지": "com.yeongseok.seamp3",
             "패키지주소": "com.yeongseok.seamp3",
             "버전메세지": {
-                "all": "The following has been revised.\n\n1. A phenomenon that goes down while scrolling.\n2. Change the way opening ads are implemented.\n3. Modified to save file photos and tags.\n4. Correction of other errors.\n\nPlease update to the new version.",
-                "ko": "다음 사항이 수정 되었습니다.\n\n1. 스크롤중 다운되는 현상.\n2. 오프닝 광고 구현방식 변경.\n3. 커버사진 및 태그를 파일에 저장하도록 수정.\n4. 기타 오류 수정.\n\n새로운 버전으로 업데이트 받으시기 바랍니다."
+                "all": "The following has been revised.\n\n1. Fixed an issue with un-downloading some devices.\n2. Voice search support.\n3. Added ringtone function.\n4. Other stabilization.",
+                "ko": "다음 사항이 수정 되었습니다.\n\n1. 일부기기 다운로드 취소 문제 수정.\n2. 음성검색 지원.\n3. 벨소리 기능 추가.\n4. 기타 안정화."
             }
         },
         "페이지뷰": {
