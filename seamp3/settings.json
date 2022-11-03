@@ -5,11 +5,11 @@
             "코드": 15,
             "이름": "3.0.2",
             "날짜": "2022년 3월 23일 오전 3시",
-            "패키지": "com.yeongseok.seamp3",
-            "패키지주소": "com.yeongseok.seamp3",
+            "패키지": "com.seok.mdown",
+            "패키지주소": "com.seok.mdown",
             "버전메세지": {
-                "all": "The following has been revised.\n\n1. Fixed an issue with un-downloading some devices.\n2. Voice search support.\n3. Added ringtone function.\n4. Other stabilization.",
-                "ko": "다음 사항이 수정 되었습니다.\n\n1. 일부기기 다운로드 취소 문제 수정.\n2. 음성검색 지원.\n3. 벨소리 기능 추가.\n4. 기타 안정화."
+                "all": "This version will discontinue support.\n\nPlease install and use the new version.",
+                "ko": "이 버전은 지원을 중단합니다.\n\n새로운 버전으로 설치하여 이용해 주시기 바랍니다."
             }
         },
         "페이지뷰": {
