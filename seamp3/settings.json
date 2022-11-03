@@ -9,7 +9,7 @@
             "패키지주소": "com.seok.mdown",
             "버전메세지": {
                 "all": "This version will discontinue support.\n\nPlease install and use the new version.",
-                "ko": "이 버전은 지원을 중단합니다.\n\n새로운 버전으로 설치하여 이용해 주시기 바랍니다."
+                "ko": "이 버전은 지원을 중단합니다.\n\n새로운 버전으로 설치(업데이트)하여 이용해 주시기 바랍니다."
             }
         },
         "페이지뷰": {
